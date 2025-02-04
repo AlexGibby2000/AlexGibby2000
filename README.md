@@ -2,7 +2,9 @@
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/{AlexGibby2000}/count.svg" alt="Visitor's Count" />
 </div>
-<h1 align="center">Hi 👋, I'm Alexander</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Alexander+Gibson!;" />
+</h1>
 
 - 🔭 I’m currently working on a **Receipt Sorting Application**
 - 📫You can reach me at **alexandergibby2000@gmail.com**
