@@ -5,15 +5,33 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 
 - 🔭 I’m currently working on a **Receipt Sorting Application**
+- 📫You can reach me at **alexandergibby2000@gmail.com**
 <br>
 
 <div align="center">
-  <a href="alexandergibby2000@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
   <a href="https://www.linkedin.com/in/alexander-ian-gibson/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+</div>
+
+<hr>
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,spring,react,mongodb,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,postman,vscode" />
+</p>
+
+<hr>
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=AlexGibby2000&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Alexander's GitHub Stats" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexGibby2000&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Alexander's Most Used Languages" />
 </div>
 
 <hr>
