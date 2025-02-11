@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Alexander+Gibson!;" />
 </h1>
 
-- 🔭 I’m currently working on a **Receipt Sorting Application**
+- 🔭 I’m currently working on a **Finance Tracker Web Application**
 - 📫You can reach me at **alexandergibby2000@gmail.com**
 <br>
 
